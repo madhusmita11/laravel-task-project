@@ -41,7 +41,7 @@ th {
        @endforeach
     </table>
     <div class="mt-4 text-center">
-									Create New Task <a link href="task">Creat</a>
+									Create  New Task <a link href="task">Creat</a>
 								</div>
                         <div class="mt-4 text-center">
                         <a href="logout">Log out</a>

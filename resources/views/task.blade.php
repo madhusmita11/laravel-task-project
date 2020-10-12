@@ -9,7 +9,7 @@
     <title>My Task Page &mdash; Bootstrap 4 Login Page Snippet</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/my-login.css">
-    
+
 </head>
 
 <body class="my-login-page">
@@ -18,7 +18,7 @@
             <div class="row justify-content-md-center h-100">
                 <div class="card-wrapper">
                     <div class="brand">
-            
+
                     </div>
                     <div class="card fat">
                         <div class="card-body">
@@ -28,7 +28,7 @@
                                     <label for="name">Task Name</label>
                                     <input id="name" type="text" class="form-control name taskname" name="name" required autofocus>
                                     <div class="invalid-feedback">
-                                       
+
                                     </div>
                                 </div>
 
@@ -36,7 +36,7 @@
                                     <label for="description">Task Description</label>
                                     <input id="description" type="description" class="form-control email description" name="description" required>
                                     <div class="invalid-feedback">
-                                       
+
                                     </div>
                                 </div>
 
@@ -50,7 +50,7 @@
                                         <option value="low">Low</option>
                                     </select>
 
-                
+
                                 </div>
                                 <div class="form-group">
                                     <label for="status">Task Status</label>
@@ -58,7 +58,7 @@
                                         <option value="completed">Completed</option>
                                         <option value="pending">Pending</option>
                                     </select>
-                                    
+
                                 </div>
 
                         </div>
@@ -69,7 +69,7 @@
                             Create
                         </button>
                     </div>
-                    
+
                     </form>
                 </div>
             </div>
